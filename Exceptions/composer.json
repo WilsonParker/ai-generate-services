@@ -1,0 +1,37 @@
+{
+  "name": "ai-generate-service/exceptions",
+  "description": "",
+  "keywords": [
+    "laravel",
+    "exceptions"
+  ],
+  "license": "MIT",
+  "support": {
+  },
+  "authors": [
+    {
+      "name": "aLlen",
+      "email": "zerad3208@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1.19",
+    "ext-json": "*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "AIGenerate\\Services\\Exceptions\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
